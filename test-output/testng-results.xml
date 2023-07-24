@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T04:43:27Z" name="Default suite" finished-at="2023-07-21T04:43:46Z" duration-ms="18604">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T04:43:27Z" name="Default test" finished-at="2023-07-21T04:43:46Z" duration-ms="18604">
+      <class name="exp.ProjectMaven.BestSellerTest">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:exp.ProjectMaven.BestSellerTest@65b104b9]" started-at="2023-07-21T04:43:27Z" name="openbrowser" finished-at="2023-07-21T04:43:40Z" duration-ms="12954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="besttest()[pri:0, instance:exp.ProjectMaven.BestSellerTest@65b104b9]" started-at="2023-07-21T04:43:40Z" name="besttest" finished-at="2023-07-21T04:43:44Z" duration-ms="3611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- besttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:exp.ProjectMaven.BestSellerTest@65b104b9]" started-at="2023-07-21T04:43:44Z" name="closebrowser" finished-at="2023-07-21T04:43:46Z" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- exp.ProjectMaven.BestSellerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
